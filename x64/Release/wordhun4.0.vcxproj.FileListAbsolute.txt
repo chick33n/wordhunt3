@@ -1,0 +1,5 @@
+C:\Users\augus\cpptest\wordhun4.0\x64\Release\wordhun4.0.vcxproj.AssemblyReference.cache
+C:\Users\augus\cpptest\wordhun4.0\x64\Release\wordhun4.0.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\augus\cpptest\wordhun4.0\x64\Release\wordhun40.MyForm.resources
+C:\Users\augus\cpptest\wordhun4.0\x64\Release\wordhun4.0.vcxproj.GenerateResource.cache
+C:\Users\augus\cpptest\wordhun4.0\x64\Release\wordhun4.0.exe

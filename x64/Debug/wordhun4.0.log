@@ -1,0 +1,15 @@
+﻿  MyForm.cpp
+C:\Users\augus\cpptest\wordhun4.0\MyForm.h(709,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\augus\cpptest\wordhun4.0\MyForm.h(710,11): warning C4101: 'num': unreferenced local variable
+C:\Users\augus\cpptest\wordhun4.0\MyForm.h(717,13): warning C4101: 'exists': unreferenced local variable
+C:\Users\augus\cpptest\wordhun4.0\MyForm.h(749,17): warning C4244: 'initializing': conversion from 'wchar_t' to 'char', possible loss of data
+C:\Users\augus\cpptest\wordhun4.0\MyForm.h(756,16): warning C4244: 'initializing': conversion from 'wchar_t' to 'char', possible loss of data
+C:\Users\augus\cpptest\wordhun4.0\MyForm.h(758,15): warning C4244: 'argument': conversion from 'wchar_t' to '_Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\augus\cpptest\wordhun4.0\MyForm.h(792,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\augus\cpptest\wordhun4.0\MyForm.h(718): warning C4700: uninitialized local variable 'random' used
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  wordhun4.0.vcxproj -> C:\Users\augus\cpptest\wordhun4.0\x64\Debug\wordhun4.0.exe
